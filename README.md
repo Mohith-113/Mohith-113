@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying B.Tech Final Year **Computer Science and Engineering**
 
-- 🌱 I’m currently learning **JSP**
+- 🌱 I’m currently learning **.NET**
 
 - 👨‍💻 All of my projects are available at [https://mohith.onrender.com](https://mohith.onrender.com)
 
